@@ -13,7 +13,7 @@ For data storage, I used a relational database engine such as MySQL.
 
 ## Installation and Execution
 Below are the steps for installation and running the application:
-1. **Download the Code:** Clone the source code from the repository using `git clone https://github.com/Malky23013/Practicode4`.
+1. **Download the Code:** Clone the source code from the repository using `https://github.com/SaraToprowitch/Task-Manager.git`.
 2. **Install Dependencies:** Run `npm install` in the client directory to install all required dependencies.
 3. **Run the Server:** Execute the server by running `dotnet run` in the server directory.
 4. **Run the Client:** Start the client by running `npm i` and then `npm start` in the client directory.
